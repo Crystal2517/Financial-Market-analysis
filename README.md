@@ -69,7 +69,7 @@ These numbers are the change between the first and last available values during 
 
 I used **Matplotlib** to create a bar chart comparing the assets. Bitcoin's percentage change is much larger than the others, so it makes the difference between the assets very noticeable on the chart.
 
-![Asset comparison chart](<img width="2906" height="1668" alt="image" src="https://github.com/user-attachments/assets/012097c5-7ae4-423a-99af-c72fc4f1d209" />)
+
 
 ## What I Learned
 
